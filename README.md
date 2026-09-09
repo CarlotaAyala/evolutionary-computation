@@ -290,7 +290,7 @@ The progression of the project also helped me understand how more advanced metah
 
 ## 🎓 Academic Context
 
-This project was developed as part of the **Evolutionary Computation (EC)** course in the **Data Science and Engineering** degree at the **University of Las Palmas de Gran Canaria (ULPGC)**.
+This project was developed as part of the **Evolutionary Computation (EC)** course in the **University of Maribor**.
 
 ---
 
